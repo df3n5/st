@@ -7,6 +7,7 @@
  */
 //static char font[] = "Liberation Mono:pixelsize=18:antialias=true:autohint=false";
 static char font[] = "Profont:pixelsize=21:antialias=true:autohint=false";
+//static char font[] = "Profont:pixelsize=14:antialias=true:autohint=false";
 //static char font[] = "9x15";
 static int borderpx = 2;
 static char shell[] = "/bin/sh";
